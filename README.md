@@ -14,6 +14,12 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 ###Saptamana 9(Diagrame)
 
 ## Modul Control Senzori
+###Echipa
++ **Petrea Mihai**
++ Hoamea Cristina
++ Neghina Madalina
++ Tanasa Nicoleta
+
 ## Modul Indoor
 ## Modul ML
 ## Modul Outdoor
@@ -24,12 +30,6 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 + Iacob Marius
 + Ciofu Mihail Alexandru
 
-## Control Senzori
-###Echipa
-+ **Petrea Mihai**
-+ Hoamea Cristina
-+ Neghina Madalina
-+ Tanasa Nicoleta
 
 
 
