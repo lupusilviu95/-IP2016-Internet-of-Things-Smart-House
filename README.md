@@ -2,7 +2,7 @@
 Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 
 
-## Modul Central
+## Modul Central @lupusilviu95
 ###Echipa
 + **Lupu Silviu**
 + Covalciuc Friderika
@@ -14,6 +14,12 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 ###Saptamana 9(Diagrame)
 
 ## Modul Control Senzori
+###Echipa
++ **Petrea Mihai**
++ Hoamea Cristina
++ Neghina Madalina
++ Tanasa Nicoleta
+
 ## Modul Indoor
 
 ## Modul ML
@@ -33,12 +39,8 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 + Iacob Marius
 + Ciofu Mihail Alexandru
 
-## Control Senzori
-###Echipa
-+ **Petrea Mihai**
-+ Hoamea Cristina
-+ Neghina Madalina
-+ Tanasa Nicoleta
+
+
 
 
 
