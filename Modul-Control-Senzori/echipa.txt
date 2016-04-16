@@ -1,4 +1,6 @@
-Petrea Mihai - capitan
-Hoamea Cristina
-Tanasa Nicoleta
-Neghina Madalina - Alexandra
+## Control Senzori
+###Echipa
++ **Petrea Mihai**
++ Hoamea Cristina
++ Neghina Madalina
++ Tanasa Nicoleta
