@@ -31,11 +31,8 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 ## Modul-Prelucrare
 ###Echipa
 +Laslau Laurentiu -capitan
-
 +Pal Emanuela Adriana
-
 +Iacob Marius
-
 +Ciofu Mihail Alexandru
 
 
