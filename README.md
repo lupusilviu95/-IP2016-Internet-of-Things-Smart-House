@@ -11,6 +11,8 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 + Rapa Mihaela
 + Toma Lucian
 
+###Saptamana 9(Diagrame)
+
 ## Modul Control Senzori
 ## Modul Indoor
 ## Modul ML
