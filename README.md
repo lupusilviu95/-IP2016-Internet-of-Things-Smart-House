@@ -3,6 +3,8 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 
 
 ## Modul Central
+   ###Echipa
+      **Lupu Silviu*
 ## Modul Control Senzori
 ## Modul Indoor
 ## Modul ML
