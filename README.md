@@ -18,3 +18,14 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 ## Modul ML
 ## Modul Outdoor
 ## Modul Prelucrare
+
+
+## Control Senzori
+###Echipa
++ **Petrea Mihai**
++ Hoamea Cristina
++ Neghina Madalina
++ Tanasa Nicoleta
++ 
+##
+##
