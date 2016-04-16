@@ -18,7 +18,11 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 ## Modul ML
 ## Modul Outdoor
 ## Modul Prelucrare
-
+###Echipa
++ **Laslau Laurentiu**
++ Pal Emanuela Adriana
++ Iacob Marius
++ Ciofu Mihail Alexandru
 
 ## Control Senzori
 ###Echipa
@@ -28,11 +32,6 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 + Tanasa Nicoleta
 
 
-## Modul-Prelucrare
-###Echipa
-+ **Laslau Laurentiu**
-+ Pal Emanuela Adriana
-+ Iacob Marius
-+ Ciofu Mihail Alexandru
+
 
 
