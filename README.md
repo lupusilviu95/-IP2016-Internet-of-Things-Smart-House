@@ -2,7 +2,8 @@
 Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 
 
-## Modul Central @lupusilviu95
+## Modul Central 
+@lupusilviu95
 ###Echipa
 + **Lupu Silviu**
 + Covalciuc Friderika
