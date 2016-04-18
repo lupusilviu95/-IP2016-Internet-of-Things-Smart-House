@@ -50,12 +50,15 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 ## Modul Prelucrare
 ###Echipa
 + **Laslau Laurentiu**
-  + Class diagram: http://imgur.com/qGHMA51
+  + Class Diagram: http://imgur.com/qGHMA51
+  + Sequence Diagram: http://imgur.com/Uv9BL3Y
 + Pal Emanuela Adriana
   + Use Case Diagram: http://imgur.com/CXaI5ZC
   + State Diagram: http://imgur.com/yJISO3x
 + Iacob Marius
 + Ciofu Mihail Alexandru
+  +Deployment Diagram: http://imgur.com/O6cTcHr
+  +Packet Diagram: http://imgur.com/VQlucS9
 
 
 
