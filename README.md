@@ -12,6 +12,7 @@ Faculty of Computer Science Iasi, Software Engineering,IIB1 Group Project
 + Toma Lucian
 
 ###Saptamana 9(Diagrame)
+http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 
 ## Modul Control Senzori
 ###Echipa
