@@ -24,9 +24,9 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 ## Modul Indoor
 ###Echipa
 + **Serediuc Constantin** --- Diagrama de stare si activitate: http://fenrir.info.uaic.ro/~constantin.serediuc/SerediucConstantin/ ---
-+ Ivanuta Simona Andreea
-+ Maticiuc Alexandra Diana
-+ Mojsiak Roxana Ioana
++ Ivanuta Simona Andreea --- Diagrama de clase si colaborare: http://fenrir.info.uaic.ro/~constantin.serediuc/IvanutaAndreeaSimona/
++ Maticiuc Alexandra Diana --- Diagrama de secventa si use case: http://fenrir.info.uaic.ro/~constantin.serediuc/MaticiucAlexandraDiana/
++ Mojsiak Roxana Ioana --- Diagrama de pachete si deployment: http://fenrir.info.uaic.ro/~constantin.serediuc/MojsiakRoxanaIoana/
 
 
 ## Modul ML
