@@ -57,8 +57,8 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
   + State Diagram: http://imgur.com/yJISO3x
 + Iacob Marius
 + Ciofu Mihail Alexandru
-  +Deployment Diagram: http://imgur.com/O6cTcHr
-  +Packet Diagram: http://imgur.com/VQlucS9
+  + Deployment Diagram: http://imgur.com/O6cTcHr
+  + Packet Diagram: http://imgur.com/VQlucS9
 
 
 
