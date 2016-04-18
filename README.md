@@ -17,16 +17,22 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 ## Modul Control Senzori
 ###Echipa
 + **Petrea Mihai**
++ --- Diagrama de Use-Case:     http://imgur.com/gKl2dHC ---
++ --- Diagrama de Colaborare:     http://imgur.com/RwLLSh2 ---
 + Hoamea Cristina
++ --- Diagrama de Stare:       http://imgur.com/xDm3uXW ---
++ --- Diagrama de Pachete:     http://imgur.com/xDm3uXW ---
 + Neghina Madalina
-+ Tanasa Nicoleta --- Diagrama de Stare: http://imgur.com/xDm3uXW --- Diagrama de Pachete: http://imgur.com/xDm3uXW ---
++ Tanasa Nicoleta 
++ --- Diagrama de  Activitate: http://imgur.com/ZyTjgPf ---
++ --- Diagrama de  Secventa:   http://imgur.com/hZdN4LE ---
 
 ## Modul Indoor
 ###Echipa
 + **Serediuc Constantin** --- Diagrama de stare si activitate: http://fenrir.info.uaic.ro/~constantin.serediuc/SerediucConstantin/ ---
-+ Ivanuta Simona Andreea --- Diagrama de clase si colaborare: http://fenrir.info.uaic.ro/~constantin.serediuc/IvanutaAndreeaSimona/
-+ Maticiuc Alexandra Diana --- Diagrama de secventa si use case: http://fenrir.info.uaic.ro/~constantin.serediuc/MaticiucAlexandraDiana/
-+ Mojsiak Roxana Ioana --- Diagrama de pachete si deployment: http://fenrir.info.uaic.ro/~constantin.serediuc/MojsiakRoxanaIoana/
++ Ivanuta Simona Andreea
++ Maticiuc Alexandra Diana
++ Mojsiak Roxana Ioana
 
 
 ## Modul ML
