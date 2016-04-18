@@ -50,6 +50,13 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 http://students.info.uaic.ro/~monica.vizitiu/IP/diagrame.html
 
 ## Modul Outdoor
+###Echipa
++ **Paun-Anghele Florian**
++ Chirileanu Teodor
++ Costan George Razvan
++ Livadariu Georgiana
++ Rusu Bianca
+
 ## Modul Prelucrare
 ###Echipa
 + **Laslau Laurentiu**
