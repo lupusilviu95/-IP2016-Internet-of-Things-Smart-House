@@ -46,6 +46,9 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 + Latu Bogdan-Andrei
 + Popescu Alexandru-Cezar
 
+###Diagrame
+http://students.info.uaic.ro/~monica.vizitiu/IP/diagrame.html
+
 ## Modul Outdoor
 ## Modul Prelucrare
 ###Echipa
