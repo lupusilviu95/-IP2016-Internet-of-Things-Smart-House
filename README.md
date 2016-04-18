@@ -19,7 +19,7 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 + **Petrea Mihai**
 + Hoamea Cristina
 + Neghina Madalina
-+ Tanasa Nicoleta
++ Tanasa Nicoleta --- Diagrama de Stare: http://imgur.com/xDm3uXW --- Diagrama de Pachete: http://imgur.com/xDm3uXW ---
 
 ## Modul Indoor
 
