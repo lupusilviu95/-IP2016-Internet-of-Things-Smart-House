@@ -45,7 +45,8 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 + Ion Cristian
 + Latu Bogdan-Andrei
 + Popescu Alexandru-Cezar
-##Diagrame
+
+####Diagrame
 http://students.info.uaic.ro/~monica.vizitiu/IP/diagrame.html
 
 ## Modul Outdoor
