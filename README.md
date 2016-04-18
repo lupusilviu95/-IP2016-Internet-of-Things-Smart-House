@@ -59,6 +59,8 @@ http://students.info.uaic.ro/~monica.vizitiu/IP/diagrame.html
   + Use Case Diagram: http://imgur.com/CXaI5ZC
   + State Diagram: http://imgur.com/yJISO3x
 + Iacob Marius
+  + Collaboration Diagram: http://imgur.com/w6irNM7
+  + Activity Diagram: http://imgur.com/HLSjAa0
 + Ciofu Mihail Alexandru
   + Deployment Diagram: http://imgur.com/O6cTcHr
   + Packet Diagram: http://imgur.com/VQlucS9
