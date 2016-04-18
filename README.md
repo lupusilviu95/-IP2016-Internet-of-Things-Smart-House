@@ -52,6 +52,8 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 + **Laslau Laurentiu**
   + Class diagram: http://imgur.com/qGHMA51
 + Pal Emanuela Adriana
+  + Use Case Diagram: http://imgur.com/CXaI5ZC
+  + State Diagram: http://imgur.com/yJISO3x
 + Iacob Marius
 + Ciofu Mihail Alexandru
 
