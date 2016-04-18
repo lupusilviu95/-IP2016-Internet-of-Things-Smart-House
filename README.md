@@ -20,7 +20,7 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 + --- Diagrama de Use-Case:     http://imgur.com/gKl2dHC ---
 + --- Diagrama de Colaborare:   http://imgur.com/RwLLSh2 ---
 + Hoamea Cristina
-+ --- Diagrama de Stare:       http://imgur.com/ImMW20M ---
++ --- Diagrama de Stare:       http://imgur.com/3OeTgup ---
 + --- Diagrama de Pachete:     http://imgur.com/xDm3uXW ---
 + Neghina Madalina
 + --- Diagrama de Stare:       http://imgur.com/yuOeuP1 ---
