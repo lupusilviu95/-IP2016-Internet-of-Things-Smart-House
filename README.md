@@ -50,7 +50,7 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 ## Modul Prelucrare
 ###Echipa
 + **Laslau Laurentiu**
-+ --Class diagram: http://imgur.com/qGHMA51
+* --Class diagram: http://imgur.com/qGHMA51
 + Pal Emanuela Adriana
 + Iacob Marius
 + Ciofu Mihail Alexandru
