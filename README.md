@@ -22,6 +22,12 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 + Tanasa Nicoleta --- Diagrama de Stare: http://imgur.com/xDm3uXW --- Diagrama de Pachete: http://imgur.com/xDm3uXW ---
 
 ## Modul Indoor
+###Echipa
++ **Serediuc Constantin**
++ Ivanuta Simona Andreea
++ Maticiuc Alexandra Diana
++ Mojsiak Roxana Ioana
+
 
 ## Modul ML
 ###Echipa
