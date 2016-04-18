@@ -23,7 +23,7 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 
 ## Modul Indoor
 ###Echipa
-+ **Serediuc Constantin**
++ **Serediuc Constantin** --- Diagrama de stare si activitate: http://fenrir.info.uaic.ro/~constantin.serediuc/SerediucConstantin/ ---
 + Ivanuta Simona Andreea
 + Maticiuc Alexandra Diana
 + Mojsiak Roxana Ioana
