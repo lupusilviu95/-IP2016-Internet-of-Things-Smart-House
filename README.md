@@ -18,11 +18,13 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 ###Echipa
 + **Petrea Mihai**
 + --- Diagrama de Use-Case:     http://imgur.com/gKl2dHC ---
-+ --- Diagrama de Colaborare:     http://imgur.com/RwLLSh2 ---
++ --- Diagrama de Colaborare:   http://imgur.com/RwLLSh2 ---
 + Hoamea Cristina
-+ --- Diagrama de Stare:       http://imgur.com/xDm3uXW ---
++ --- Diagrama de Stare:       http://imgur.com/ImMW20M ---
 + --- Diagrama de Pachete:     http://imgur.com/xDm3uXW ---
 + Neghina Madalina
++ --- Diagrama de Stare:       http://imgur.com/yuOeuP1 ---
++ --- Diagrama de Stare:       http://imgur.com/bqn8nsT ---
 + Tanasa Nicoleta 
 + --- Diagrama de  Activitate: http://imgur.com/ZyTjgPf ---
 + --- Diagrama de  Secventa:   http://imgur.com/hZdN4LE ---
