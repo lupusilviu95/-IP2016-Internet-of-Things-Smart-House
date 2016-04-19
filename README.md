@@ -17,13 +17,13 @@ http://students.info.uaic.ro/~silviu.lupu/DiagrameIP/diagrame.html
 ## Modul Control Senzori
 ###Echipa
 + **Petrea Mihai**
-+ --- Diagrama de Use-Case:     http://imgur.com/gKl2dHC ---
-+ --- Diagrama de Colaborare:   http://imgur.com/RwLLSh2 ---
++ --- Diagrama de Colaborare:     http://imgur.com/gKl2dHC ---
++ --- Diagrama de Use-Case:   http://imgur.com/RwLLSh2 ---
 + Hoamea Cristina
 + --- Diagrama de Stare:       http://imgur.com/3OeTgup ---
 + --- Diagrama de Pachete:     http://imgur.com/xDm3uXW ---
 + Neghina Madalina
-+ --- Diagrama de Stare:       http://imgur.com/yuOeuP1 ---
++ --- Diagrama de Clase:       http://imgur.com/yuOeuP1 ---
 + --- Diagrama de Use-Case:       http://imgur.com/bqn8nsT ---
 + Tanasa Nicoleta 
 + --- Diagrama de  Activitate: http://imgur.com/ZyTjgPf ---
