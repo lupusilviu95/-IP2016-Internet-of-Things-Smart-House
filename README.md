@@ -57,6 +57,9 @@ http://students.info.uaic.ro/~monica.vizitiu/IP/diagrame.html
 + Livadariu Georgiana
 + Rusu Bianca
 
+###Diagrame
+http://students.info.uaic.ro/~george.costan/Ip/DiagrameIp/index.html
+
 ## Modul Prelucrare
 ###Echipa
 + **Laslau Laurentiu**
