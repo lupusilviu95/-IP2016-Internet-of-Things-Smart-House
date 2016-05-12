@@ -4,6 +4,6 @@ Sa ne spuneti ce putem sa modificam.
 
 
 Am adaugat si .java de test in JUnit pt a le prezenta la laborator. 
-Nimic nou in cod.
+A new patch in the code.
 
 Spor!
